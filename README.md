@@ -1,4 +1,4 @@
-//The README file is structured as follows: 1. Project Title. 2. Project Description. 3. Project Setup. 4. Author & License
+
 # __CODE_CHALLENGE_WEEK_ONE__
 ## _Prerequisite_
 1. Create a repository on your GitHub account.
